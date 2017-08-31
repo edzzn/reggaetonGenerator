@@ -9,11 +9,11 @@ Este proyecto puede ser utilizado para disintos fines similares, Simplemente cam
 
 ## Minado de datos
 
-La primera parte del proyecto utiliza el ![Framework Scrapy](https://scrapy.org) para la optención de las letras de **3846** canciones de **32** artistas de la página web: *![letras.com](https://www.letras.com/)
+La primera parte del proyecto utiliza el [Framework Scrapy](https://scrapy.org) para la optención de las letras de **3846** canciones de **32** artistas de la página web: *![letras.com](https://www.letras.com/)
 
-Los artistas pertenecen la lista ![Artists of the genre Reggaeton](https://www.letras.com/estilos/reggaeton/).
+Los artistas pertenecen la lista [Artists of the genre Reggaeton](https://www.letras.com/estilos/reggaeton/).
 
-En este *Jupyter notebook* se puede observar un poco del analisis de los datos, preparación y limpieza de los mismos: ![Scraping_cacniones](https://github.com/edzzn/reggaetonGenerator/blob/master/Scraping_canciones.ipynb)
+En este *Jupyter notebook* se puede observar un poco del analisis de los datos, preparación y limpieza de los mismos: [Scraping_cacniones](https://github.com/edzzn/reggaetonGenerator/blob/master/Scraping_canciones.ipynb)
 
 
 ## Modelo de generación de Canciones 
